@@ -40,6 +40,7 @@ body {
     flex-basis: 335px;
     flex-shrink: 0;
     position: relative;
+    box-shadow: 2px 3px 10px #959595;
 }
 
 .levysloupec {
